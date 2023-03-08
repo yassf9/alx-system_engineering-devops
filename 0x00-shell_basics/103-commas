@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -p1f 
+ls -p1F  
