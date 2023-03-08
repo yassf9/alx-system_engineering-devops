@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -pamF -1  
+ls -am -1  
