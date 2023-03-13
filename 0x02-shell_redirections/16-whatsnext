@@ -1,0 +1,3 @@
+#!/bin/bash
+grep -A 3 "root" /etc/passwd | awk 'NR==1 || NR%4==0'
+
